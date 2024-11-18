@@ -6,10 +6,10 @@ function main() {
   const root = document.getElementById('root');
 
   const btn = document.getElementById('change-btn');
-  const autobtn = document.getElementById('change-btn-auto');
+  const autobus = document.getElementById('change-btn-auto');
   const autobtnstop = document.getElementById('change-btn-auto-stop');
 
-  let txtcolor = document.getElementById('text-color');
+  let tricolor = document.getElementById('text-color');
 
   autobtnstop.style.display = 'none';
 
